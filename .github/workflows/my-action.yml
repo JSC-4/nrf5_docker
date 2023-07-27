@@ -1,0 +1,31 @@
+# Name of the workflow
+name: nRF5 workflow
+
+# Define the trigger event(s)
+on: [push]
+
+# Must match the Makefile project name
+env: 
+  APP_NAME: basic
+
+# Allow this workflow to write back to the repository
+permissions:
+  contents: write
+
+# Build binary and send to the releases
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    name: Build and build-deploy
+    steps:
+      
+      - name: Check out this repository
+        uses: actions/checkout@v3
+
+      - name: Build Docker image
+        run: docker build -f .\Dockerfile -t nrf-image-builder .
+      
+      - name: Create and run Docker container
+        run: docker run -it --rm -v ${PWD}:/app nrf-example /bin/bash -c "mkdir _build; cd application/armgcc; make -j"
+
+
