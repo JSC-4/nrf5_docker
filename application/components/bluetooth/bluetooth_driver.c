@@ -284,7 +284,7 @@ static void on_adv_evt(ble_adv_evt_t ble_adv_evt)
  */
 static void ble_evt_handler(ble_evt_t const * p_ble_evt, void * p_context)
 {
-    ret_code_t err_code;
+    ret_code_t err_code = NRF_SUCCESS;
 
     switch (p_ble_evt->header.evt_id)
     {
