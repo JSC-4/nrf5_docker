@@ -1,14 +1,14 @@
 Output/Release/Obj/ble_test_project/nrf_drv_uart.o: \
- C\:\Users\jsc\Documents\Projects\Docker\nRF\nRF5_SDK_17.1.0_ddde560\integration\nrfx\legacy\nrf_drv_uart.c \
- C\:\Users\jsc\Documents\Projects\Docker\nRF\nRF5_SDK_17.1.0_ddde560\integration\nrfx\legacy\nrf_drv_uart.h \
+ C\:\Users\jerom\Documents\Projects\Docker\nRF\nRF5_SDK_17.1.0_ddde560\integration\nrfx\legacy\nrf_drv_uart.c \
+ C\:\Users\jerom\Documents\Projects\Docker\nRF\nRF5_SDK_17.1.0_ddde560\integration\nrfx\legacy\nrf_drv_uart.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/modules/nrfx/nrfx.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/integration/nrfx/nrfx_config.h \
  ../config/sdk_config.h ../config/app_config.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/modules/nrfx/drivers/nrfx_common.h \
- C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50d/include/stdint.h \
- C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50d/include/stddef.h \
- C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50d/include/__crossworks.h \
- C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50d/include/stdbool.h \
+ C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.42a/include/stdint.h \
+ C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.42a/include/stddef.h \
+ C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.42a/include/__crossworks.h \
+ C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.42a/include/stdbool.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/modules/nrfx/mdk/nrf.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/modules/nrfx/mdk/nrf52840.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/toolchain/cmsis/include/core_cm4.h \
@@ -42,7 +42,7 @@ Output/Release/Obj/ble_test_project/nrf_drv_uart.o: \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/softdevice/s140/headers/nrf_nvic.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/util/nrf_assert.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/util/app_error.h \
- C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50d/include/stdio.h \
+ C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.42a/include/stdio.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/util/sdk_errors.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/softdevice/s140/headers/nrf_error.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/util/app_error_weak.h \

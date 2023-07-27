@@ -1,12 +1,12 @@
 Output/Release/Obj/ble_test_project/app_timer2.o: \
- C\:\Users\jsc\Documents\Projects\Docker\nRF\nRF5_SDK_17.1.0_ddde560\components\libraries\timer\app_timer2.c \
- C\:\Users\jsc\Documents\Projects\Docker\nRF\nRF5_SDK_17.1.0_ddde560\components\libraries\timer\app_timer.h \
+ C\:\Users\jerom\Documents\Projects\Docker\nRF\nRF5_SDK_17.1.0_ddde560\components\libraries\timer\app_timer2.c \
+ C\:\Users\jerom\Documents\Projects\Docker\nRF\nRF5_SDK_17.1.0_ddde560\components\libraries\timer\app_timer.h \
  ../config/sdk_config.h ../config/app_config.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/util/app_error.h \
- C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50d/include/stdint.h \
- C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50d/include/stdio.h \
- C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50d/include/__crossworks.h \
- C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50d/include/stdbool.h \
+ C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.42a/include/stdint.h \
+ C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.42a/include/stdio.h \
+ C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.42a/include/__crossworks.h \
+ C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.42a/include/stdbool.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/modules/nrfx/mdk/nrf.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/modules/nrfx/mdk/nrf52840.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/toolchain/cmsis/include/core_cm4.h \
@@ -24,7 +24,7 @@ Output/Release/Obj/ble_test_project/app_timer2.o: \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/util/nordic_common.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/util/app_error_weak.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/util/app_util.h \
- C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50d/include/stddef.h \
+ C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.42a/include/stddef.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/modules/nrfx/mdk/compiler_abstraction.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/softdevice/s140/headers/nrf52/nrf_mbr.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/softdevice/s140/headers/nrf_svc.h \
@@ -62,12 +62,12 @@ Output/Release/Obj/ble_test_project/app_timer2.o: \
  ../../../../nRF5_SDK_17.1.0_ddde560/modules/nrfx/drivers/nrfx_errors.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/log/nrf_log.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/util/sdk_common.h \
- C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50d/include/string.h \
+ C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.42a/include/string.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/util/sdk_os.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/util/app_util.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/util/sdk_macros.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/strerror/nrf_strerror.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/log/src/nrf_log_internal.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/log/nrf_log_types.h \
- C\:\Users\jsc\Documents\Projects\Docker\nRF\nRF5_SDK_17.1.0_ddde560\components\libraries\timer\drv_rtc.h \
+ C\:\Users\jerom\Documents\Projects\Docker\nRF\nRF5_SDK_17.1.0_ddde560\components\libraries\timer\drv_rtc.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/modules/nrfx/hal/nrf_rtc.h

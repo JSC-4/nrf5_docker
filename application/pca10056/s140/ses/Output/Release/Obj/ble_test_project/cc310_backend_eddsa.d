@@ -1,13 +1,13 @@
 Output/Release/Obj/ble_test_project/cc310_backend_eddsa.o: \
- C\:\Users\jsc\Documents\Projects\Docker\nRF\nRF5_SDK_17.1.0_ddde560\components\libraries\crypto\backend\cc310\cc310_backend_eddsa.c \
+ C\:\Users\jerom\Documents\Projects\Docker\nRF\nRF5_SDK_17.1.0_ddde560\components\libraries\crypto\backend\cc310\cc310_backend_eddsa.c \
  ../config/sdk_config.h ../config/app_config.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/util/nordic_common.h \
- C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50d/include/stdint.h \
- C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50d/include/stdbool.h \
- C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50d/include/string.h \
- C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50d/include/__crossworks.h \
+ C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.42a/include/stdint.h \
+ C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.42a/include/stdbool.h \
+ C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.42a/include/string.h \
+ C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.42a/include/__crossworks.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/crypto/nrf_crypto_ecc.h \
- C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50d/include/stddef.h \
+ C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.42a/include/stddef.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/crypto/nrf_crypto_error.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/util/sdk_errors.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/softdevice/s140/headers/nrf_error.h \
@@ -75,9 +75,9 @@ Output/Release/Obj/ble_test_project/cc310_backend_eddsa.o: \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/crypto/backend/cc310/cc310_backend_eddsa.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/crypto/nrf_crypto_eddsa_shared.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/crypto/backend/oberon/oberon_backend_eddsa.h \
- C\:\Users\jsc\Documents\Projects\Docker\nRF\nRF5_SDK_17.1.0_ddde560\components\libraries\crypto\backend\cc310\cc310_backend_ecc.h \
- C\:\Users\jsc\Documents\Projects\Docker\nRF\nRF5_SDK_17.1.0_ddde560\components\libraries\crypto\backend\cc310\cc310_backend_shared.h \
- C\:\Users\jsc\Documents\Projects\Docker\nRF\nRF5_SDK_17.1.0_ddde560\components\libraries\crypto\backend\cc310\cc310_backend_mutex.h \
+ C\:\Users\jerom\Documents\Projects\Docker\nRF\nRF5_SDK_17.1.0_ddde560\components\libraries\crypto\backend\cc310\cc310_backend_ecc.h \
+ C\:\Users\jerom\Documents\Projects\Docker\nRF\nRF5_SDK_17.1.0_ddde560\components\libraries\crypto\backend\cc310\cc310_backend_shared.h \
+ C\:\Users\jerom\Documents\Projects\Docker\nRF\nRF5_SDK_17.1.0_ddde560\components\libraries\crypto\backend\cc310\cc310_backend_mutex.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/mutex/nrf_mtx.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/atomic/nrf_atomic.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/util/nrf_assert.h \

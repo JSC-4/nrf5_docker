@@ -394,6 +394,12 @@ flash_softdevice:
 erase:
 	nrfjprog -f nrf52 --eraseall
 
+format:
+	clang-format -i $(PROJ_DIR)/main.c
+
+clean:
+	rm -rf $(OUTPUT_DIRECTORY)/*
+
 SDK_CONFIG_FILE := ../pca10056/s140/config/sdk_config.h
 CMSIS_CONFIG_TOOL := $(SDK_ROOT)/external_tools/cmsisconfig/CMSIS_Configuration_Wizard.jar
 sdk_config:

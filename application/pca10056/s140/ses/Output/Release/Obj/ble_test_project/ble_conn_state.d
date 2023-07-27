@@ -1,8 +1,8 @@
 Output/Release/Obj/ble_test_project/ble_conn_state.o: \
- C\:\Users\jsc\Documents\Projects\Docker\nRF\nRF5_SDK_17.1.0_ddde560\components\ble\common\ble_conn_state.c \
- C\:\Users\jsc\Documents\Projects\Docker\nRF\nRF5_SDK_17.1.0_ddde560\components\ble\common\ble_conn_state.h \
- C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50d/include/stdbool.h \
- C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50d/include/stdint.h \
+ C\:\Users\jerom\Documents\Projects\Docker\nRF\nRF5_SDK_17.1.0_ddde560\components\ble\common\ble_conn_state.c \
+ C\:\Users\jerom\Documents\Projects\Docker\nRF\nRF5_SDK_17.1.0_ddde560\components\ble\common\ble_conn_state.h \
+ C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.42a/include/stdbool.h \
+ C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.42a/include/stdint.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/softdevice/s140/headers/ble.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/softdevice/s140/headers/nrf_svc.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/softdevice/s140/headers/nrf_error.h \
@@ -30,8 +30,8 @@ Output/Release/Obj/ble_test_project/ble_conn_state.o: \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/softdevice/s140/headers/ble_gap.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/atomic/nrf_atomic.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/util/sdk_common.h \
- C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50d/include/string.h \
- C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50d/include/__crossworks.h \
+ C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.42a/include/string.h \
+ C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.42a/include/__crossworks.h \
  ../config/sdk_config.h ../config/app_config.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/util/nordic_common.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/modules/nrfx/mdk/compiler_abstraction.h \
@@ -39,14 +39,14 @@ Output/Release/Obj/ble_test_project/ble_conn_state.o: \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/util/sdk_errors.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/softdevice/s140/headers/nrf_error.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/util/app_util.h \
- C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50d/include/stddef.h \
+ C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.42a/include/stddef.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/softdevice/s140/headers/nrf52/nrf_mbr.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/softdevice/s140/headers/nrf_svc.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/util/sdk_macros.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/util/nrf_assert.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/atomic_flags/nrf_atflags.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/util/app_error.h \
- C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50d/include/stdio.h \
+ C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.42a/include/stdio.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/util/app_error_weak.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/softdevice/common/nrf_sdh_ble.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/util/app_util.h \

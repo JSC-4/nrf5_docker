@@ -25,9 +25,10 @@ RUN mv /tmp/nrf-command-line-tools/bin/mergehex /opt/ && mv /tmp/nrf-command-lin
 ENV PATH=$PATH:/opt/mergehex:/opt/nrfjprog
 
 # # Tools for anaylsis
-# RUN apt-get install -y \
-#     cppcheck \
-# RUN pip3 install cpplint
+RUN apt-get install -y \
+    cppcheck \
+    clang clang-tools clang-format
+RUN pip3 install cpplint
 
 # # Set up a development tools directory
 # WORKDIR /home/dev

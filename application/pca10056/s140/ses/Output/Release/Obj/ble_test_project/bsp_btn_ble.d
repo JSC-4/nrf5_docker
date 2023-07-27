@@ -1,7 +1,7 @@
 Output/Release/Obj/ble_test_project/bsp_btn_ble.o: \
- C\:\Users\jsc\Documents\Projects\Docker\nRF\nRF5_SDK_17.1.0_ddde560\components\libraries\bsp\bsp_btn_ble.c \
- C\:\Users\jsc\Documents\Projects\Docker\nRF\nRF5_SDK_17.1.0_ddde560\components\libraries\bsp\bsp_btn_ble.h \
- C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50d/include/stdint.h \
+ C\:\Users\jerom\Documents\Projects\Docker\nRF\nRF5_SDK_17.1.0_ddde560\components\libraries\bsp\bsp_btn_ble.c \
+ C\:\Users\jerom\Documents\Projects\Docker\nRF\nRF5_SDK_17.1.0_ddde560\components\libraries\bsp\bsp_btn_ble.h \
+ C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.42a/include/stdint.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/softdevice/s140/headers/ble.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/softdevice/s140/headers/nrf_svc.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/softdevice/s140/headers/nrf_error.h \
@@ -26,16 +26,16 @@ Output/Release/Obj/ble_test_project/bsp_btn_ble.o: \
  ../../../../nRF5_SDK_17.1.0_ddde560/modules/nrfx/mdk/nrf52_to_nrf52840.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/modules/nrfx/mdk/compiler_abstraction.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/softdevice/s140/headers/ble_gatts.h \
- C\:\Users\jsc\Documents\Projects\Docker\nRF\nRF5_SDK_17.1.0_ddde560\components\libraries\bsp\bsp.h \
- C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50d/include/stdbool.h \
+ C\:\Users\jerom\Documents\Projects\Docker\nRF\nRF5_SDK_17.1.0_ddde560\components\libraries\bsp\bsp.h \
+ C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.42a/include/stdbool.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/boards/boards.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/modules/nrfx/hal/nrf_gpio.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/modules/nrfx/nrfx.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/integration/nrfx/nrfx_config.h \
  ../config/sdk_config.h ../config/app_config.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/modules/nrfx/drivers/nrfx_common.h \
- C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50d/include/stddef.h \
- C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50d/include/__crossworks.h \
+ C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.42a/include/stddef.h \
+ C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.42a/include/__crossworks.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/modules/nrfx/mdk/nrf_peripherals.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/modules/nrfx/mdk/nrf52840_peripherals.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/integration/nrfx/nrfx_glue.h \
@@ -55,7 +55,7 @@ Output/Release/Obj/ble_test_project/bsp_btn_ble.o: \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/softdevice/s140/headers/nrf_nvic.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/util/nrf_assert.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/util/app_error.h \
- C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50d/include/stdio.h \
+ C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.42a/include/stdio.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/util/sdk_errors.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/softdevice/s140/headers/nrf_error.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/util/app_error_weak.h \

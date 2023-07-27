@@ -1,10 +1,10 @@
 Output/Release/Obj/ble_test_project/nrf_crypto_hkdf.o: \
- C\:\Users\jsc\Documents\Projects\Docker\nRF\nRF5_SDK_17.1.0_ddde560\components\libraries\crypto\nrf_crypto_hkdf.c \
+ C\:\Users\jerom\Documents\Projects\Docker\nRF\nRF5_SDK_17.1.0_ddde560\components\libraries\crypto\nrf_crypto_hkdf.c \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/util/sdk_common.h \
- C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50d/include/stdint.h \
- C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50d/include/stdbool.h \
- C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50d/include/string.h \
- C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50d/include/__crossworks.h \
+ C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.42a/include/stdint.h \
+ C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.42a/include/stdbool.h \
+ C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.42a/include/string.h \
+ C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.42a/include/__crossworks.h \
  ../config/sdk_config.h ../config/app_config.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/util/nordic_common.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/modules/nrfx/mdk/compiler_abstraction.h \
@@ -12,7 +12,7 @@ Output/Release/Obj/ble_test_project/nrf_crypto_hkdf.o: \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/util/sdk_errors.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/softdevice/s140/headers/nrf_error.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/util/app_util.h \
- C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50d/include/stddef.h \
+ C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.42a/include/stddef.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/modules/nrfx/mdk/nrf.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/modules/nrfx/mdk/nrf52840.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/toolchain/cmsis/include/core_cm4.h \
@@ -30,10 +30,10 @@ Output/Release/Obj/ble_test_project/nrf_crypto_hkdf.o: \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/util/sdk_macros.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/util/nrf_assert.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/util/nrf_assert.h \
- C\:\Users\jsc\Documents\Projects\Docker\nRF\nRF5_SDK_17.1.0_ddde560\components\libraries\crypto\nrf_crypto_hmac.h \
- C\:\Users\jsc\Documents\Projects\Docker\nRF\nRF5_SDK_17.1.0_ddde560\components\libraries\crypto\nrf_crypto_types.h \
- C\:\Users\jsc\Documents\Projects\Docker\nRF\nRF5_SDK_17.1.0_ddde560\components\libraries\crypto\nrf_crypto_hmac_backend.h \
- C\:\Users\jsc\Documents\Projects\Docker\nRF\nRF5_SDK_17.1.0_ddde560\components\libraries\crypto\nrf_crypto_hmac_shared.h \
+ C\:\Users\jerom\Documents\Projects\Docker\nRF\nRF5_SDK_17.1.0_ddde560\components\libraries\crypto\nrf_crypto_hmac.h \
+ C\:\Users\jerom\Documents\Projects\Docker\nRF\nRF5_SDK_17.1.0_ddde560\components\libraries\crypto\nrf_crypto_types.h \
+ C\:\Users\jerom\Documents\Projects\Docker\nRF\nRF5_SDK_17.1.0_ddde560\components\libraries\crypto\nrf_crypto_hmac_backend.h \
+ C\:\Users\jerom\Documents\Projects\Docker\nRF\nRF5_SDK_17.1.0_ddde560\components\libraries\crypto\nrf_crypto_hmac_shared.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/crypto/backend/mbedtls/mbedtls_backend_hmac.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/crypto/backend/cc310/cc310_backend_hmac.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/crypto/nrf_crypto_hmac_shared.h \
@@ -45,10 +45,10 @@ Output/Release/Obj/ble_test_project/nrf_crypto_hkdf.o: \
  ../../../../nRF5_SDK_17.1.0_ddde560/external/nrf_cc310/include/crys_hash_defs.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/external/nrf_cc310/include/crys_hmac_defs.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/crypto/backend/oberon/oberon_backend_hmac.h \
- C\:\Users\jsc\Documents\Projects\Docker\nRF\nRF5_SDK_17.1.0_ddde560\components\libraries\crypto\nrf_crypto_hkdf.h \
- C\:\Users\jsc\Documents\Projects\Docker\nRF\nRF5_SDK_17.1.0_ddde560\components\libraries\crypto\nrf_crypto_error.h \
+ C\:\Users\jerom\Documents\Projects\Docker\nRF\nRF5_SDK_17.1.0_ddde560\components\libraries\crypto\nrf_crypto_hkdf.h \
+ C\:\Users\jerom\Documents\Projects\Docker\nRF\nRF5_SDK_17.1.0_ddde560\components\libraries\crypto\nrf_crypto_error.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/util/sdk_errors.h \
- C\:\Users\jsc\Documents\Projects\Docker\nRF\nRF5_SDK_17.1.0_ddde560\components\libraries\crypto\nrf_crypto_mem.h \
+ C\:\Users\jerom\Documents\Projects\Docker\nRF\nRF5_SDK_17.1.0_ddde560\components\libraries\crypto\nrf_crypto_mem.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/util/sdk_alloca.h \
- C\:\Users\jsc\Documents\Projects\Docker\nRF\nRF5_SDK_17.1.0_ddde560\components\libraries\crypto\nrf_crypto_shared.h \
+ C\:\Users\jerom\Documents\Projects\Docker\nRF\nRF5_SDK_17.1.0_ddde560\components\libraries\crypto\nrf_crypto_shared.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/util/sdk_macros.h

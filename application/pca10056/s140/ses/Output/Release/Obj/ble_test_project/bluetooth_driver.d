@@ -1,9 +1,9 @@
 Output/Release/Obj/ble_test_project/bluetooth_driver.o: \
- C\:\Users\jsc\Documents\Projects\Docker\nRF\application\components\bluetooth\bluetooth_driver.c \
+ C\:\Users\jerom\Documents\Projects\Docker\nRF\application\components\bluetooth\bluetooth_driver.c \
  ../../../components/bluetooth/include/bluetooth_driver.h \
- C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50d/include/stdint.h \
- C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50d/include/string.h \
- C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50d/include/__crossworks.h \
+ C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.42a/include/stdint.h \
+ C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.42a/include/string.h \
+ C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.42a/include/__crossworks.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/util/nordic_common.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/modules/nrfx/mdk/nrf.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/modules/nrfx/mdk/nrf52840.h \
@@ -24,8 +24,8 @@ Output/Release/Obj/ble_test_project/bluetooth_driver.o: \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/softdevice/s140/headers/nrf_soc.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/softdevice/s140/headers/nrf_error_soc.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/util/app_error.h \
- C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50d/include/stdio.h \
- C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50d/include/stdbool.h \
+ C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.42a/include/stdio.h \
+ C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.42a/include/stdbool.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/util/sdk_errors.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/softdevice/s140/headers/nrf_error.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/util/nordic_common.h \
@@ -45,7 +45,7 @@ Output/Release/Obj/ble_test_project/bluetooth_driver.o: \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/ble/common/ble_srv_common.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/softdevice/s140/headers/ble_types.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/util/app_util.h \
- C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50d/include/stddef.h \
+ C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.42a/include/stddef.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/modules/nrfx/mdk/compiler_abstraction.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/softdevice/s140/headers/nrf52/nrf_mbr.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/softdevice/s140/headers/nrf_svc.h \
@@ -101,6 +101,6 @@ Output/Release/Obj/ble_test_project/bluetooth_driver.o: \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/log/src/nrf_log_ctrl_internal.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/log/nrf_log_backend_interface.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/memobj/nrf_memobj.h \
- C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50d/include/stdlib.h \
+ C\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.42a/include/stdlib.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/balloc/nrf_balloc.h \
  ../../../../nRF5_SDK_17.1.0_ddde560/components/libraries/log/nrf_log_default_backends.h
